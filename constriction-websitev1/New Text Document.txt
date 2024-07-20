@@ -1,0 +1,24 @@
+/path_to_your_project/
+│
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── scripts.js
+│
+└── images/
+    ├── logo.png
+    ├── hero-bg.jpg
+    ├── about.jpg
+    ├── home-renovations.jpg
+    ├── legal-basement.jpg
+    ├── washroom-renovations.jpg
+    ├── kitchen-remodeling.jpg
+    ├── flooring.jpg
+    ├── tiles.jpg
+    └── landscape.jpg
